@@ -1,0 +1,6 @@
+C:\Users\andre\Documents\GitHubProjects\UnitTests\MatrixProject\bin\Debug\MatrixProject.dll
+C:\Users\andre\Documents\GitHubProjects\UnitTests\MatrixProject\bin\Debug\MatrixProject.pdb
+C:\Users\andre\Documents\GitHubProjects\UnitTests\MatrixProject\obj\Debug\MatrixProject.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\GitHubProjects\UnitTests\MatrixProject\obj\Debug\MatrixProject.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHubProjects\UnitTests\MatrixProject\obj\Debug\MatrixProject.dll
+C:\Users\andre\Documents\GitHubProjects\UnitTests\MatrixProject\obj\Debug\MatrixProject.pdb
